@@ -1,4 +1,4 @@
-# NeuralNetwork-HMA-3
+# NeuralNetwork-Deep-Learning-Autoencoders-RNN-LSTM
 
 Q1: Implementing a Basic Autoencoder
 Objective:
